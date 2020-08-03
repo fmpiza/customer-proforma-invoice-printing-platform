@@ -1,5 +1,8 @@
 # customer-proforma-invoice-printing-platform
-This is a platform which enable a seller tor print customer proforma invoice and giving an instant customer feedback
+This is a platform which enable a seller tor print customer proforma invoice and giving an instant customer feedback.
+
+N.B
+- Also a system administrator can view all system staffs logs, at a time for him to ake a system report.
 
 ![myweb1](https://user-images.githubusercontent.com/52234785/89179938-72259680-d599-11ea-9f77-00b81bf32a7c.PNG)
 ![myweb2](https://user-images.githubusercontent.com/52234785/89180113-c0d33080-d599-11ea-93c8-18f53e06d0ba.PNG)
